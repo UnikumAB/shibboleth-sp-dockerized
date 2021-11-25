@@ -1,3 +1,6 @@
+## FORK NOTE
+This fork has no modifications other than having a more recent shhibboleth version.
+
 ## Overview
 This Docker image is Apache 2.4 with Shibboleth SP 3.2.3-3.1 installed running on CentOS 7.
 
